@@ -1,0 +1,22 @@
++ styled-component
++ firebase
++ fuse.js
++ normalize.css
++ react-router-dom
+
+
+# to kill process 
+lsof -i:3000    
+kill pid
+
+
+jumbotron 
+import styled from "styled-components/macro"
+export const Inner = styled.div`
+    display:flex;
+    align-items: center;
+    // pass params
+    flex-direction:#{({direction})};     
+    justify-content: space-between; 
+    max-width:100px;
+`
