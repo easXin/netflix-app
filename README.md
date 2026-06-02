@@ -26,14 +26,6 @@ This project was created as an early React practice project to strengthen fronte
 - Media-focused user interface inspired by modern streaming platforms
 - Public deployment using Firebase Hosting
 
-## What I Practiced
-
-- Component-based React development
-- JavaScript state and props handling
-- Responsive frontend layout
-- Fetching and rendering external data
-- Deploying a React application to Firebase Hosting
-
 ## Project Status
 
 This is an archived early personal project. It is kept as part of my project history to show my early frontend development practice and progression toward more advanced full-stack, enterprise, and cloud-based projects.
